@@ -50,7 +50,7 @@ function App() {
                 <i className="bi bi-arrow-right"></i>
               </button>
               <a 
-                href="/resume.pdf" 
+                href="/LucasNicole_SWEResume.pdf" 
                 download="Nicole_Lucas_Resume.pdf"
                 className="resume-btn"
                 style={{ textDecoration: 'none' }}
@@ -92,7 +92,7 @@ function App() {
           With expertise in full-stack development, I specialize in building scalable web applications using modern technologies. I'm constantly learning and adapting to new frameworks and tools to stay at the forefront of the industry.
         </p>
         <p className="fade-in-up">
-          When I'm not coding, you can find me exploring NYC's vibrant tech scene, contributing to open-source projects, or sharing knowledge with fellow developers.
+          Outside of tech, you will often find me running races, reading novels, or watching movies. These moments keep me energized, grounded, and inspired.
         </p>
       </section>
 
