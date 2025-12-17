@@ -121,10 +121,10 @@ function App() {
               <span>PostgreSQL</span>
             </div>
             <div className="project-links">
-              <a href="/" className="project-link">
+              <a href="https://github.com/nicolelucas03/MLH-DigitalOcean-Hackathon" className="project-link">
                 <i className="bi bi-github"></i> Code
               </a>
-              <a href="/" className="project-link">
+              <a href="https://devpost.com/software/waysafe-b7sxwg?ref_content=my-projects-tab&ref_feature=my_projects" className="project-link">
                 <i className="bi bi-box-arrow-up-right"></i> Live Demo
               </a>
             </div>
@@ -143,10 +143,10 @@ function App() {
               <span>SpotifyAPI</span>
             </div>
             <div className="project-links">
-              <a href="/" className="project-link">
+              <a href="https://github.com/nicolelucas03/spot_that_tune" className="project-link">
                 <i className="bi bi-github"></i> Code
               </a>
-              <a href="/" className="project-link">
+              <a href="https://drive.google.com/file/d/18ax8Rok6CtPjgeCkBPcfCT_A-kZkuZrn/view?usp=sharing" className="project-link">
                 <i className="bi bi-box-arrow-up-right"></i> Live Demo
               </a>
             </div>
@@ -167,10 +167,10 @@ function App() {
               <span>GroqAPI</span>
             </div>
             <div className="project-links">
-              <a href="/" className="project-link">
+              <a href="https://github.com/nicolelucas03/water_utilities_project_streamlit" className="project-link">
                 <i className="bi bi-github"></i> Code
               </a>
-              <a href="/" className="project-link">
+              <a href="https://water-utilities-dashboard.streamlit.app/" className="project-link">
                 <i className="bi bi-box-arrow-up-right"></i> Live Demo
               </a>
             </div>
@@ -187,7 +187,7 @@ function App() {
               <span>C++</span>
             </div>
             <div className="project-links">
-              <a href="/" className="project-link">
+              <a href="https://github.com/nicolelucas03/gameboards-and-pieces" className="project-link">
                 <i className="bi bi-github"></i> Code
               </a>
               <a href="/" className="project-link">
