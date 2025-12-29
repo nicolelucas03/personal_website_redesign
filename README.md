@@ -18,8 +18,8 @@ This is my personal portfolio website redesign, built with React, to showcase my
 
 ## Demo
 
-- [Live Site](#) <!-- Add your deployed site link here -->
-
+- [Live Site](https://www.nicolecindylucas.com/)
+  
 ## Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
