@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# Nicole Lucas — Personal Website & Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![screenshot](public/images/portfolio_screenshot.png)
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+This is my personal portfolio website redesign, built with React, to showcase my projects, skills, certifications, and provide a way to connect with me. The site is designed for a modern, interactive, and professional user experience, and is fully responsive for all devices.
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Hero Section:** Brief introduction, resume download, and social links
+- **About Me:** Personal background and philosophy
+- **Projects:** Detailed cards for each project, including tech stack, code, and live demo links
+- **Skills & Technologies:** Categorized overview of technical skills
+- **Certifications:** Professional certifications and credentials
+- **Contact:** Email, LinkedIn, and GitHub links
+- **Responsive Design:** Optimized for desktop and mobile
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Demo
 
-### `npm test`
+- [Live Site](#) <!-- Add your deployed site link here -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tech Stack
 
-### `npm run build`
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap Icons](https://img.shields.io/badge/Bootstrap%20Icons-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Notable Projects Showcased
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **WaySafe:** Safe navigation tool using crime data and user preferences ([Code](https://github.com/nicolelucas03/MLH-DigitalOcean-Hackathon) | [Demo](https://devpost.com/software/waysafe-b7sxwg?ref_content=my-projects-tab&ref_feature=my_projects))
+- **Spot That Tune:** Music quiz mobile app ([Code](https://github.com/nicolelucas03/spot_that_tune) | [Demo](https://drive.google.com/file/d/18ax8Rok6CtPjgeCkBPcfCT_A-kZkuZrn/view?usp=sharing))
+- **Water Utilities Dashboard:** Analytics for African water utilities ([Code](https://github.com/nicolelucas03/water_utilities_project_streamlit) | [Demo](https://water-utilities-dashboard.streamlit.app/))
+- **Game Boards and Pieces:** C++ board game parser ([Code](https://github.com/nicolelucas03/gameboards-and-pieces))
+- **Soul Sync:** Mindfulness app (Figma, wireframes)
+- **Pocket Triage:** First aid app for conflict zones (Figma)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Skills & Technologies
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Frontend:** React, TypeScript, Tailwind CSS, HTML/CSS, JavaScript, Swift
+- **Backend:** Java, Python, REST APIs, C++, AVR Assembly, Arduino C
+- **Data Tools:** SQL, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Plotly, Streamlit, Tableau, JASP
+- **Mobile:** Swift, iOS, Android, Cross-platform, Responsive Design
+- **Version Control:** Git, GitHub, GitLab, CI/CD, Agile, Scrum
+- **Other Tools:** VS Code, Docker, AWS, Figma, Unity, MATLAB, SolidWorks
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Certifications
 
-## Learn More
+- **Applied Data Institute** — EquitechFutures.org (2025)
+- **CodePath Technical Interview Prep** — CodePath.org (2025)
+- **PyLadiesCon** — PyLadiesCon (2025)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contact
 
-### Code Splitting
+- **Email:** [nicoleclucas003@gmail.com](mailto:nicoleclucas003@gmail.com)
+- **LinkedIn:** [nicolecindylucas](https://www.linkedin.com/in/nicolecindylucas)
+- **GitHub:** [nicolelucas03](https://github.com/nicolelucas03)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+© 2025 Nicole Lucas. Built with React.
