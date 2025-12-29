@@ -1,4 +1,4 @@
-# Nicole Lucas — Personal Website & Portfolio
+# Nicole Lucas: Personal Website & Portfolio
 
 ![screenshot](/public/images/portfolio_screenshot.png)
 
