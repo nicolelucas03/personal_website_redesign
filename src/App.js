@@ -153,6 +153,30 @@ function App() {
           </div>
           <div className="project-card">
             <div className="project-header">
+              <h3>SmartCart</h3>
+              <div className="project-icon">
+                <i className="bi bi-basket"></i>
+              </div>
+            </div>
+            <p>A web app that helps users shop healthier while also achieving their budget goals. Using Claude AI, the web app will output a suggested grocery list with price and health score, and reasonings as to why users should swap their grocery project..</p>
+            <div className="tech-tags">
+              <span>React</span>
+              <span>TypeScript</span>
+              <span>CSS3</span>
+              <span>Python</span>
+              <span>Anthropic Claude API</span>
+            </div>
+            <div className="project-links">
+              <a href="https://github.com/nicolelucas03/nutrition_on_a_budget" className="project-link">
+                <i className="bi bi-github"></i> Code
+              </a>
+              <a href="https://github.com/nicolelucas03/nutrition_on_a_budget" className="project-link">
+                <i className="bi bi-box-arrow-up-right"></i> Live Demo
+              </a>
+            </div>
+          </div>
+          <div className="project-card">
+            <div className="project-header">
               <h3>Water Utilities Dashboard</h3>
               <div className="project-icon">
                 <i className="bi bi-droplet"></i>
@@ -190,9 +214,9 @@ function App() {
               <a href="https://github.com/nicolelucas03/gameboards-and-pieces" className="project-link">
                 <i className="bi bi-github"></i> Code
               </a>
-              <a href="/" className="project-link">
+              {/* <a href="/" className="project-link">
                 <i className="bi bi-box-arrow-up-right"></i> Live Demo
-              </a>
+              </a> */}
             </div>
           </div>
           <div className="project-card">
@@ -209,31 +233,8 @@ function App() {
               <span>Storyboarding</span>
             </div>
             <div className="project-links">
-              <a href="/" className="project-link">
-                <i className="bi bi-github"></i> Code
-              </a>
-              <a href="/" className="project-link">
-                <i className="bi bi-box-arrow-up-right"></i> Live Demo
-              </a>
-            </div>
-          </div>
-          <div className="project-card">
-            <div className="project-header">
-              <h3>Pocket Triage</h3>
-              <div className="project-icon">
-                <i className="bi bi-heart"></i>
-              </div>
-            </div>
-            <p>A mobile app providing fast, evidence-based first aid and mental wellness guidance for people in conflict zones and remote areas, with multilingual support and text, voice, and image input.</p>
-            <div className="tech-tags">
-              <span>Figma</span>
-            </div>
-            <div className="project-links">
-              <a href="/" className="project-link">
-                <i className="bi bi-github"></i> Code
-              </a>
-              <a href="/" className="project-link">
-                <i className="bi bi-box-arrow-up-right"></i> Live Demo
+              <a href="https://drive.google.com/file/d/1ylh747wMu4oN4QoJHhPqF5psW8pKk8DE/view?usp=sharing" className="project-link">
+                <i className="bi bi-box-arrow-up-right"></i> Process
               </a>
             </div>
           </div>
@@ -338,9 +339,9 @@ function App() {
             <div className="cert-org"><i className="bi bi-link-45deg"></i> EquitechFutures.org</div>
             <div className="cert-year">2025</div>
             <div className="cert-desc">Certified in Scrum framework and agile project management methodologies.</div>
-            <div className="cert-id">ID: <span>PSM-2023</span></div>
+            {/* <div className="cert-id">ID: <span>PSM-2023</span></div> */}
             <a className="cert-link" href="/">
-              <span>View Credential</span>
+              <span>In Process</span>
               <i className="bi bi-arrow-right"></i>
             </a>
           </div>
