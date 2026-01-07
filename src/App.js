@@ -338,10 +338,10 @@ function App() {
             <div className="cert-title">Applied Data Institute</div>
             <div className="cert-org"><i className="bi bi-link-45deg"></i> EquitechFutures.org</div>
             <div className="cert-year">2025</div>
-            <div className="cert-desc">Certified in Scrum framework and agile project management methodologies.</div>
+            <div className="cert-desc">Demonstrated expertise in data science project applications.</div>
             {/* <div className="cert-id">ID: <span>PSM-2023</span></div> */}
-            <a className="cert-link" href="/">
-              <span>In Process</span>
+            <a className="cert-link" href="https://drive.google.com/file/d/1mLSWKVV5PIor9gf_5QN16LHIQ2A36o9c/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+              <span>View Credential</span>
               <i className="bi bi-arrow-right"></i>
             </a>
           </div>
