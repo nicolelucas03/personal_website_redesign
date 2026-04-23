@@ -51,7 +51,7 @@ function App() {
                 <i className="bi bi-arrow-right"></i>
               </button>
               <a 
-                href="/LucasNicole_CV.pdf" 
+                href="/LucasN_CV.pdf" 
                 download="Nicole_Lucas_Resume.pdf"
                 className="resume-btn"
                 style={{ textDecoration: 'none' }}
