@@ -292,7 +292,7 @@ function App() {
               <span>Swift</span>
               <span>iOS</span>
               <span>Android</span>
-              <span>Cross-platform</span>
+              <span>Expo</span>
               <span>Responsive Design</span>
             </div>
           </div>
@@ -313,8 +313,8 @@ function App() {
               <span>VS Code</span>
               <span>Docker</span>
               <span>AWS</span>
+              <span>Azure</span>
               <span>Figma</span>
-              <span>VSCode</span>
               <span>Unity</span>
               <span>MATLAB</span>
               <span>SolidWorks</span>
