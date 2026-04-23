@@ -97,9 +97,9 @@ function App() {
         </p>
         <div style={{ marginTop: '1.5rem' }}>
           <Link to="/my-story" className="read-more-btn" style={{ textDecoration: 'none' }}>
-            <button style={{ padding: '0.5rem 1.5rem', fontSize: '1rem', borderRadius: '5px', border: 'none', background: '#007bff', color: '#fff', cursor: 'pointer' }}>
+            {/* <button style={{ padding: '0.5rem 1.5rem', fontSize: '1rem', borderRadius: '5px', border: 'none', background: '#007bff', color: '#fff', cursor: 'pointer' }}>
               Read More
-            </button>
+            </button> */}
           </Link>
         </div>
       </section>
