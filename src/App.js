@@ -1,4 +1,5 @@
 import React, { useEffect, useRef } from 'react';
+import { Link } from 'react-router-dom';
 import './App.css';
 import 'bootstrap-icons/font/bootstrap-icons.css';
 
@@ -94,6 +95,13 @@ function App() {
         <p className="fade-in-up">
           Outside of tech, you will often find me running races, reading novels, or watching movies. These moments keep me energized, grounded, and inspired.
         </p>
+        <div style={{ marginTop: '1.5rem' }}>
+          <Link to="/my-story" className="read-more-btn" style={{ textDecoration: 'none' }}>
+            <button style={{ padding: '0.5rem 1.5rem', fontSize: '1rem', borderRadius: '5px', border: 'none', background: '#007bff', color: '#fff', cursor: 'pointer' }}>
+              Read More
+            </button>
+          </Link>
+        </div>
       </section>
 
       <section className="projects-section" id="projects">
