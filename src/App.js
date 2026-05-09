@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="main-container">
       <Navbar />
-
+      <meta name="robots" content="noindex,nofollow"></meta>
       <section className="hero-section">
         <div className="hero-content">
           <div className="hero-left">
