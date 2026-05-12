@@ -421,10 +421,10 @@ function App() {
             </div>
             <div className="cert-title">CodePath Technical Interview Prep</div>
             <div className="cert-org"><i className="bi bi-link-45deg"></i> CodePath.org</div>
-            <div className="cert-year">2025</div>
+            <div className="cert-year">2026</div>
             <div className="cert-desc">Demonstrated expertise in the technical interview process.</div>
-            <div className="cert-id">ID: <span>364736</span></div>
-            <a className="cert-link" href="https://drive.google.com/file/d/14edQDi7jFvZn3eXODtPcBlS2mBx_VQW6/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <div className="cert-id">ID: <span>395003</span></div>
+            <a className="cert-link" href="https://drive.google.com/file/d/1g_Lx_dtXyRKfl7WGhwgQfBMqUlHhuqHN/view?usp=sharing" target="_blank" rel="noopener noreferrer">
               <span>View Credential</span>
               <i className="bi bi-arrow-right"></i>
             </a>
@@ -433,11 +433,12 @@ function App() {
             <div className="cert-badge">
               <i className="bi bi-award"></i>
             </div>
-            <div className="cert-title">PyLadiesCon</div>
-            <div className="cert-org"><i className="bi bi-link-45deg"></i> PyLadiesCon</div>
-            <div className="cert-year">2025</div>
-            <div className="cert-desc">Attended a virtual conference to explore Python technologies and workshops.</div>
-            <a className="cert-link" href="https://drive.google.com/file/d/1cMWfyG51z6xPmFg_M22NOE9I0uq23SDc/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <div className="cert-title">CodePath Applied AI Engineering</div>
+            <div className="cert-org"><i className="bi bi-link-45deg"></i> CodePath.org</div>
+            <div className="cert-year">2026</div>
+            <div className="cert-desc">Successful completion of Applied AI Engineering course.</div>
+            <div className="cert-id">ID: <span>384238</span></div>
+            <a className="cert-link" href="https://drive.google.com/file/d/1i8SNuG9UYN1OTPqy5FFdKcZc5tluRwes/view?usp=sharing" target="_blank" rel="noopener noreferrer">
               <span>View Credential</span>
               <i className="bi bi-arrow-right"></i>
             </a>
