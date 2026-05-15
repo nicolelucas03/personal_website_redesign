@@ -208,7 +208,7 @@ function App() {
             </div>
           </div>
 
-          <div className="project-card">
+          {/* <div className="project-card">
             <div className="project-header">
               <h3>Predictive Modeling: Melbourne House</h3>
               <div className="project-icon">
@@ -226,6 +226,26 @@ function App() {
             </div>
             <div className="project-links">
               <a href="https://github.com/nicolelucas03/predictive-modeling" className="project-link">
+                <i className="bi bi-github"></i> Code
+              </a>
+            </div> */}
+            <div className="project-card">
+            <div className="project-header">
+              <h3>Behind the Grade: NYC Restaurant Inspections</h3>
+              <div className="project-icon">
+                <i className="bi bi-clipboard2-pulse"></i>
+              </div>
+            </div>
+            <p>Interactive Power BI dashboard analyzing 76K+ NYC restaurant inspection records across boroughs, cuisines, and violation patterns.</p>
+            <div className="tech-tags">
+              <span>Power BI</span>
+              <span>DAX</span>
+              <span>Power Query</span>
+              <span>NYC Open Data</span>
+              <span>Data Modeling</span>
+            </div>
+            <div className="project-links">
+              <a href="https://github.com/nicolelucas03/behind-the-grade" className="project-link">
                 <i className="bi bi-github"></i> Code
               </a>
             </div>
